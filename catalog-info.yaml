@@ -11,7 +11,7 @@ metadata:
       icon: package
       type: npm package
   annotations:
-    backstage.io/techdocs-ref: .
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: npm package
   lifecycle: production
