@@ -11,8 +11,8 @@ jobs:
     steps:
       - uses: danhellem/github-actions-issue-to-work-item@master
         env:
-          ado_token: "3auggrnywt5ixo6xcrreyi7je2fhfjfwt33blcr3g57zbg63lj7q"
-          github_token: "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"
+          ado_token: ""
+          github_token: ""
           ado_organization: "JLL-Applications"
           ado_project: "JLL.Capability"
           ado_area_path: "JLL.Capability"
